@@ -1,7 +1,7 @@
 # Histórico de versões
 
 ## Versão 4 — planejada
-- [ ] Pedido 1: trocar o emoji do topo
+- [x] Pedido 1: trocar o emoji do topo
 - [ ] Pedido 2: atualizar a frase principal
 - [ ] Pedido 3: mudar a cor do site
 
