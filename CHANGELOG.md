@@ -1,7 +1,7 @@
 # Histórico de versões
 
 ## Versão 5 - Publicada 19/10
-- [x] Pedido 1: Trocar a cor do Fundo do site para Laranja
+- [x] Pedido 1: Trocar a cor do Fundo do site para Laranja e Verde
 
 ## Versão 4 — Publicada 05/10
 - [x] Pedido 1: trocar o emoji do topo
