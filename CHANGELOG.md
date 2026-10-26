@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## Versão 6 - Publicada 26/10
+- [ ] Pedido 1: Alterar os dados para dados verdadeiros
+- [ ] Pedido 2: Coloque uma imagem de fundo no site
+
 ## Versão 5 - Publicada 19/10
 - [x] Pedido 1: Trocar a cor do Fundo do site para Laranja e Verde
 
