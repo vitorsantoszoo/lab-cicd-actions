@@ -1,7 +1,13 @@
 # Histórico de versões
 
+## Versão Final — 16/11/2026 (fim de vida)
+[] - Motivo: fim da disciplina
+[] - Aviso: mensagem no próprio site
+[] - Dados: o código fica no repositório
+[] - Substituto: nenhum
+
 ## Versão 6 - Publicada 26/10
-- [ ] Pedido 1: Coloque uma imagem de fundo no site
+- [x] Pedido 1: Coloque uma imagem de fundo no site
 
 ## Versão 5 - Publicada 19/10
 - [x] Pedido 1: Trocar a cor do Fundo do site para Laranja e Verde
