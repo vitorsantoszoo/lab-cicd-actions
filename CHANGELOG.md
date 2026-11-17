@@ -1,10 +1,10 @@
 # Histórico de versões
 
 ## Versão Final — 16/11/2026 (fim de vida)
-[] - Motivo: fim da disciplina
-[] - Aviso: mensagem no próprio site
-[] - Dados: o código fica no repositório
-[] - Substituto: nenhum
+- [ ] Motivo: fim da disciplina
+- [ ] Aviso: mensagem no próprio site
+- [ ] Dados: o código fica no repositório
+- [ ] Substituto: nenhum
 
 ## Versão 6 - Publicada 26/10
 - [x] Pedido 1: Coloque uma imagem de fundo no site
